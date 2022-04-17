@@ -1,0 +1,38 @@
+{
+  "name": "Shape Me #3",
+  "symbol": "SP",
+  "description": "This is beautiful NFTs you can use in everyplace.",
+  "seller_fee_basis_points": 1000,
+  "image": "3.png",
+  "external_url": "https://twitter.com/niebin_gg",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background1"
+    },
+    {
+      "trait_type": "Circle",
+      "value": "circle2"
+    },
+    {
+      "trait_type": "Triangle",
+      "value": "triangle2"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3GXC8vcixYMYaV1Bt2wfPcdCLmYbr5ipyWDLkjH2T8GW",
+        "share": 100
+      }
+    ]
+  }
+}
